@@ -25,6 +25,7 @@ SV Tool im Rahmen des Informatik-Zusatzkurses des ONG
 
 ### Umsetzung
 | Element | HTML | CSS | JS | PHP | SQL | Notiz |
+| --- | --- | --- | --- | --- | --- | --- |
 | IB_registrieren | x | | x | x | x | Formular -> vom Admin? |
 | IB_anmelden | x | | x | x | x | Formular -> Datenbank |
 | U_erstellen | x | | x | x | x | Dynamische Erstellung mit JS und Datenbank vermerken |
