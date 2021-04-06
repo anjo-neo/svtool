@@ -40,27 +40,27 @@ SV Tool im Rahmen des Informatik-Zusatzkurses des ONG
 
 ### TODO
 - [x] Github Repository erstellen
-- [] Startseite erstellen
-- [] Datenbank erstellen
-- [] Anmeldung und Registrierung
-- [] Umfrage Maske erstellen
-- [] Umfrage ausfüllbar
-- [] Speicherung Umfrage Ergebnisse in Datenbank
-- [] Umfrage Ergebnisse auswertbar
-- [] Graphische Darstellung der Umfrage hinzufügen
-- [] Wahlen als alternative Umfragemöglichkeit mit mehr Möglichkeiten
-- [] Anwesenheit in Datenbank erstellen
-- [] Auf Anwesenheit dynamisch zugreifen -> Dokument
-- [] Umfrage mit Anwesenheit verknüpfen
-- [] Terminseite hinzufügen
-- [] Dynamisch neue Termine erstellen
-- [] Termine mit Protokoll verknüpfen
-- [] Anwesenheit mit Protokoll verknüpfen
-- [] Umfragen mit Protokoll verknüpfen
-- [] Protokoll als Dokument
-- [] Dateien hochladen
-- [] Dateien herunterladen
-- [] Protokoll als Newsletter
-- [] Modernes Design hinzufügen
-- [] Darkmode hinzufügen
-- [] dynamischer Style (Darkmode/Mobilgeräte)
+- [ ] Startseite erstellen
+- [ ] Datenbank erstellen
+- [ ] Anmeldung und Registrierung
+- [ ] Umfrage Maske erstellen
+- [ ] Umfrage ausfüllbar
+- [ ] Speicherung Umfrage Ergebnisse in Datenbank
+- [ ] Umfrage Ergebnisse auswertbar
+- [ ] Graphische Darstellung der Umfrage hinzufügen
+- [ ] Wahlen als alternative Umfragemöglichkeit mit mehr Möglichkeiten
+- [ ] Anwesenheit in Datenbank erstellen
+- [ ] Auf Anwesenheit dynamisch zugreifen -> Dokument
+- [ ] Umfrage mit Anwesenheit verknüpfen
+- [ ] Terminseite hinzufügen
+- [ ] Dynamisch neue Termine erstellen
+- [ ] Termine mit Protokoll verknüpfen
+- [ ] Anwesenheit mit Protokoll verknüpfen
+- [ ] Umfragen mit Protokoll verknüpfen
+- [ ] Protokoll als Dokument
+- [ ] Dateien hochladen
+- [ ] Dateien herunterladen
+- [ ] Protokoll als Newsletter
+- [ ] Modernes Design hinzufügen
+- [ ] Darkmode hinzufügen
+- [ ] dynamischer Style (Darkmode/Mobilgeräte)
