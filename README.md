@@ -9,11 +9,13 @@ SV Tool im Rahmen des Informatik-Zusatzkurses des ONG
 > Zunächst wurde dieses Repository von @anjo-neo erstellt und lokal verknüpft.
 
 #### Ressourcen
-[Git-Tutorial "Learn Git In 15 Minutes"](https://www.youtube.com/watch?v=USjZcfj8yxE)
-[Github-Tutorial "Learn Github in 20 Minutes"](https://www.youtube.com/watch?v=nhNq2kIvi9s)
+| Titel | Name | Quelle/Autor |
+| --- | --- | --- |
+| Git-Tutorial | Learn Git in 15 Minutes | [Youtube | Colt Steele](https://www.youtube.com/watch?v=USjZcfj8yxE) |
+| Github-Tutorial | Learn Github in 20 Minutes | [Youtube | Colt Steele](https://www.youtube.com/watch?v=nhNq2kIvi9s) |
 
 #### Kommentare/Material
-![Screenshot vom Terminal "Github Repository erstellen"]
+![Screenshot vom Terminal "Github Repository erstellen"](https://github.com/anjo-neo/svtool/blob/master/Screenshots/Screenshot%20from%202021-04-06%2017-22-25.png)
 
 ## Storyboard
 
