@@ -2,6 +2,19 @@
 
 SV Tool im Rahmen des Informatik-Zusatzkurses des ONG
 
+## Dokumentation
+
+### Github Repository
+
+> Zunächst wurde dieses Repository von @anjo-neo erstellt und lokal verknüpft.
+
+#### Ressourcen
+[Git-Tutorial "Learn Git In 15 Minutes"](https://www.youtube.com/watch?v=USjZcfj8yxE)
+[Github-Tutorial "Learn Github in 20 Minutes"](https://www.youtube.com/watch?v=nhNq2kIvi9s)
+
+#### Kommentare/Material
+![Screenshot vom Terminal "Github Repository erstellen"]
+
 ## Storyboard
 
 ### User Story:
