@@ -58,7 +58,7 @@ SV Tool im Rahmen des Informatik-Zusatzkurses des ONG
 - [x] Github Repository erstellen
 - [ ] Startseite erstellen
 - [ ] Datenbank erstellen
-- [ ] Anmeldung und Registrierung
+- [x] Anmeldung und Registrierung
 - [ ] Umfrage Maske erstellen
 - [ ] Umfrage ausfüllbar
 - [ ] Speicherung Umfrage Ergebnisse in Datenbank
