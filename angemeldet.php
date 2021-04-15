@@ -44,7 +44,7 @@
         echo "<p> falsche Eingabe, versuche es erneut</p>";
         echo "<nav>
     <ul>
-    <li><a href='startseite.html>Startseite</a></li>
+    <li><a href='startseite.html'>Startseite</a></li>
     <li><a href='einloggen.html'>LogIn</a></li>
     </ul>
     </nav>";
