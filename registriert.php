@@ -46,7 +46,7 @@ foreach($dbPDO->query($ergRequest) as $row){
     echo "<br>
     <nav>
     <ul>
-    <li><a href='startseite.html>Startseite</a></li>
+    <li><a href='startseite.html'>Startseite</a></li>
     <li><a href='einloggen.html'>LogIn</a></li>
     </ul>
     </nav>";
