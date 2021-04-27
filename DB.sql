@@ -43,3 +43,5 @@ CREATE TABLE treffen(
   
   INSERT INTO benutzer(rechte,name) VALUES("a","n");
 INSERT INTO pw(b_id,pwd) VALUES(1,12345);
+INSERT INTO treffen(datum) VALUES(0000-00-00);
+UPDATE treffen SET t_id = 0;
