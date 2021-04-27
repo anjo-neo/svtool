@@ -35,8 +35,11 @@
  
         if($_POST['pw']==$passwort){   
           echo "<p>angemeldet</p><br>";
-             echo "<a href='startseite.html'>Startseite</a>";
- 
+            echo "<form method='post' action='hauptseite.php'>
+            <input type='hidden' name='logged' readonly value=1>
+            <button>Ok, zur Hauptseite</button>
+            </form>
+         ";
  }
     
     if($_POST['pw']!=$passwort){
