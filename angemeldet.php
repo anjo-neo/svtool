@@ -16,6 +16,18 @@
     $myDbName="umfrage";
     $myDbLogin="root"; //root
     $myDbLoginPW="";
+        
+                //Funktion zur DB-Abfrage
+           function abfrageUmfrage ($DB,$tabelle,$gebrauchteSpalte,$benID){
+                $wertAusgeben=$DB->query("SELECT $gebrauchteSpalte FROM $tabelle WHERE b_id=$benID");
+               
+               foreach($wertAusgeben as $row){
+            $ausgabe=$row[$gebrauchteSpalte];
+                   
+    }
+               return ($ausgabe);
+               
+           }
 
     
     try {
