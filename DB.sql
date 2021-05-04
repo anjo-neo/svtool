@@ -45,3 +45,4 @@ CREATE TABLE treffen(
 INSERT INTO pw(b_id,pwd) VALUES(1,12345);
 INSERT INTO treffen(datum) VALUES(0000-00-00);
 UPDATE treffen SET t_id = 0;
+INSERT INTO umfragen(fragetext,titel,treffen,ja,nein,vielleicht) VALUES("Beispiel","Beispiel",0,12,11,2);
