@@ -1,0 +1,33 @@
+<html>
+<head>
+    <title>Registrierung</title>
+    <meta charset="utf-8">
+    </head>
+<body>
+
+    
+    <form method="post" action="registriert.php">
+        <ul>
+            <li>
+    <label for="name">Name</label>
+        <input name="name" type="text" required>
+                </li>
+            <li>
+    <label for="pw">Passwort</label>
+        <input name="pw" type="text" required>
+                </li>
+            <li>
+                <label for="rechte">Rechte für neuen Nutzer:</label><br>
+            <input name="rechte" type="radio" value="n" required>Normal<br>
+            <input name="rechte" type="radio" value="a" required>Admin
+            </li>
+            </ul>
+    
+        <button type="submit">Registrieren</button>
+    </form>
+   
+    
+    </body>
+
+
+</html>

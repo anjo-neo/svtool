@@ -1,0 +1,21 @@
+* {
+    box-sizing:border-box;
+
+}
+
+form{
+background-color: red;
+    display:table;
+}
+
+label{
+
+}
+
+input{
+    display:table-cell;
+}
+
+button{
+    
+}
